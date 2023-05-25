@@ -1,5 +1,6 @@
 ```
-source    https://forums.flightsimulator.com/t/boeing-787-10-tutorial-document
+source                    https://forums.flightsimulator.com/t/boeing-787-10-tutorial-document
+translated & organized    Diablohu (fly-dbh.com)
 ```
 
 ## 驾驶舱准备
