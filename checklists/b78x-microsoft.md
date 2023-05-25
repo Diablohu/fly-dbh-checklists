@@ -11,3 +11,9 @@ translated & organized    Diablohu (fly-dbh.com)
 
 - [ ] 电池...BATTERY...ON
 - [ ] 液压...HYDRAULIC C1 & C2...OFF
+- [ ] 液压...HYDRAULIC DEMAND...OFF
+- [ ] 导航灯...NAV...ON
+
+**中央操纵台**
+
+- [ ] 驻机刹车...PARKING BRAKE...SET
